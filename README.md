@@ -36,8 +36,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maevafogari&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=maevafogari&show_icons=true&theme=radical)
 
 ###
