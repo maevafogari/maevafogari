@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning React Native</p>
+<p align="left">✨ Building projects since 2025<br>📚 I'm currently learning React Native</p>
 
 ###
 
