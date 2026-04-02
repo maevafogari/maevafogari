@@ -39,3 +39,14 @@
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=maevafogari&show_icons=true&theme=radical)
 
 ###
+
+- 📫 How to reach me **fogarimaeva4@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/MaevaSFogari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="MaevaSFogari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Maeva de Souza Fogari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Maeva de Souza Fogari" height="30" width="40" /></a>
+<a href="https://instagram.com/maevafogari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maevafogari" height="30" width="40" /></a>
+</p>
+
+###
